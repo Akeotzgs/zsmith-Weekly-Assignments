@@ -7,6 +7,7 @@
 
 ## Qurey
 > - `blastp -db Unk_therm.faa -query HSP_prot.fasta -out HSP_prot_BLAST.txt -outfmt 7`
+> - `nano HSP_prot_BLAST.txt`
 
 ## Question Analysis:
 1. How many HSPs were found in the unknown organism?
